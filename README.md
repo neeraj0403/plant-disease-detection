@@ -1,2 +1,2 @@
 # plant-disease-detection
-disease detection using CNNS
+plant disease detection using CNNS by processing the images
