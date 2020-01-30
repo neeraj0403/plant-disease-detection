@@ -1,2 +1,2 @@
 # plant-disease-detection
-disease detection using CNNS IN PYTHON
+disease detection using Machine learning algorithm
