@@ -1,2 +1,4 @@
 # plant-disease-detection
-disease detection using Machine learning algorithm
+disease detection using Machine learning 
+algorithm
+
